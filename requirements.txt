@@ -1,5 +1,5 @@
-pandas==2.2.1
-numpy==1.26.4
-tensorflow==2.16.1
-yfinance==0.2.37
-pandas-datareader==0.10.0
+pandas
+numpy
+tensorflow
+yfinance
+pandas-datareader
